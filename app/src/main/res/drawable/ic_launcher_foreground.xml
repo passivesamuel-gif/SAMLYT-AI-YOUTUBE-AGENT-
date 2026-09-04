@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glow arc ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F97316"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,36 A24,24 0 1,1 30,64" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#EAB308"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M52,30 A24,24 0 0,1 78,54" />
+
+    <!-- 4 Aperture Shutter Blades (Triangles) -->
+    <!-- Top Blade -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M46,34 L62,34 L54,44 Z" />
+    <!-- Bottom Blade -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M46,74 L62,74 L54,64 Z" />
+    <!-- Left Blade -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M34,46 L34,62 L44,54 Z" />
+    <!-- Right Blade -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M74,46 L74,62 L64,54 Z" />
+
+    <!-- Center Play Button Glow Circle -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M54,48 A6,6 0 1,0 54,60 A6,6 0 1,0 54,48 Z" />
+    <!-- Play Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,51 L58,54 L52,57 Z" />
+</vector>

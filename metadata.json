@@ -1,0 +1,6 @@
+{
+  "name": "SAMLYT AI",
+  "description": "YouTube content production studio with AI-assisted research, scriptwriting, storyboarding, thumbnails, and voice direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
